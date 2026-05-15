@@ -1,5 +1,4 @@
 ﻿<template>
-  #fhaffsoad 
   <div class="page-bg">
     <div class="grid-overlay"></div>
     <main class="container layout">
@@ -18,7 +17,6 @@
           </div>
         </div>
       </header>
-#fjdkfg 
       <section class="toolbar panel">
         <div class="ctrl">
           <label>摄像头索引</label>
